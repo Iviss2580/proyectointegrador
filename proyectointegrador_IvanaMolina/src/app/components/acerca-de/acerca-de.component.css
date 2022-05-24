@@ -18,12 +18,12 @@ div{
 }
 @media(max-width:575px){
     #fotodeperfil{
-        position:absolute;
+        position:revert;
         width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 1%;
-        top: 570px;
+        top: 950px;
     }
 }
 /*estilo nombre*/
